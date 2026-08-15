@@ -1,19 +1,20 @@
 <div align="center">
 
-# Hi 👋, I'm Ravindu Wathsula
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ravindu Wathsula
 
 **Computer Science Undergraduate | Software Developer | AI Enthusiast**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=50&lines=Building+intelligent+software;Developing+full-stack+applications;Creating+mobile+experiences;Exploring+Artificial+Intelligence;Turning+ideas+into+real-world+software" alt="Typing SVG" />
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=About.me&logoColor=00F0FF&borderColor=00F0FF" alt="Portfolio"/></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00F0FF&borderColor=00F0FF" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/ravindu-wathsula-75265333a"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00F0FF&borderColor=00F0FF" alt="LinkedIn"/></a>
   <a href="https://github.com/RavinduWathsula"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00F0FF&borderColor=00F0FF" alt="GitHub"/></a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=00F0FF&borderColor=00F0FF" alt="Email"/></a>
+  <a href="mailto:rvwathsula@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=00F0FF&borderColor=00F0FF" alt="Email"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=RavinduWathsula&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
+<a href="https://github.com/RavinduWathsula">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRavinduWathsula&label=PROFILE%20VIEWS&countColor=%2300F0FF&labelColor=%23111111&style=for-the-badge" alt="Profile Views" />
+</a>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -180,9 +181,9 @@ I am a **Computer Science undergraduate** at *General Sir John Kotelawala Defenc
 ### 📇 Contact
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=About.me&logoColor=00F0FF&borderColor=00F0FF" alt="Portfolio"/></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00F0FF&borderColor=00F0FF" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=00F0FF&borderColor=00F0FF" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/ravindu-wathsula-75265333a"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00F0FF&borderColor=00F0FF" alt="LinkedIn"/></a>
+  <a href="https://github.com/RavinduWathsula"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00F0FF&borderColor=00F0FF" alt="GitHub"/></a>
+  <a href="mailto:rvwathsula@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=00F0FF&borderColor=00F0FF" alt="Email"/></a>
 </p>
 
 <br>
