@@ -146,22 +146,7 @@ I am a **Computer Science undergraduate** at *General Sir John Kotelawala Defenc
 
 ---
 
-### 🎓 Education
 
-* 🎓 **Computer Science Undergraduate**  
-  *General Sir John Kotelawala Defence University* (2024 – Present)
-* 🏫 **High School**  
-  *Mahinda College, Galle* (2010 – 2023)
-
----
-
-### 📜 Certifications
-
-* 🏅 **Udemy** - [Certification Name/Link placeholder]
-* 🏅 **University of Moratuwa** - [Certification Name/Link placeholder]
-* 🏅 **Cisco / CCNA** - [Certification Name/Link placeholder]
-
----
 
 ### 📈 Currently Learning
 
