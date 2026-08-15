@@ -95,35 +95,22 @@ I am a **Computer Science undergraduate** at *General Sir John Kotelawala Defenc
 
 ### 🚀 Featured Projects
 
-| 🛒 **[ShopMate AI](YOUR_SHOPMATE_REPO_URL)** |
-| :--- |
-| **Description:** AI-powered smart shopping assistant designed for supermarket customers. Features include budget monitoring, product scanning, discount detection, cheaper alternative recommendations, shopping analytics and intelligent product suggestions. |
-| **Tech:** `Python` `AI/ML` `Mobile` |
-| <a href="YOUR_SHOPMATE_REPO_URL"><img src="https://img.shields.io/badge/GitHub_Repository-111111?style=for-the-badge&logo=github&logoColor=white"></a> <a href="YOUR_SHOPMATE_DEMO_URL"><img src="https://img.shields.io/badge/Live_Demo-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=111111"></a> |
-
-| 🏨 **[Hotel Management System](YOUR_HOTEL_REPO_URL)** |
-| :--- |
-| **Description:** A digital hotel management solution designed to improve hotel staff operations, reservations, room management, task management and operational workflows. |
-| **Tech:** `Java` `MySQL` |
-| <a href="YOUR_HOTEL_REPO_URL"><img src="https://img.shields.io/badge/GitHub_Repository-111111?style=for-the-badge&logo=github&logoColor=white"></a> |
-
-| 🚗 **[Vehicle Parts Finder](YOUR_VEHICLE_REPO_URL)** |
-| :--- |
-| **Description:** A system for finding vehicle parts, compatible vehicles, shops and product availability using structured vehicle and parts information. |
-| **Tech:** `PHP` `MySQL` `Web` |
-| <a href="YOUR_VEHICLE_REPO_URL"><img src="https://img.shields.io/badge/GitHub_Repository-111111?style=for-the-badge&logo=github&logoColor=white"></a> |
-
-| 🛍️ **[Online Store](YOUR_STORE_REPO_URL)** |
-| :--- |
-| **Description:** A full-stack e-commerce application with product management, shopping cart, customer functionality and database integration. |
-| **Tech:** `Node.js` `React` `MongoDB` |
-| <a href="YOUR_STORE_REPO_URL"><img src="https://img.shields.io/badge/GitHub_Repository-111111?style=for-the-badge&logo=github&logoColor=white"></a> |
-
-| 💼 **[Personal Portfolio](YOUR_PORTFOLIO_REPO_URL)** |
-| :--- |
-| **Description:** A modern interactive developer portfolio showcasing skills, projects, education and software development work. |
-| **Tech:** `React` `Tailwind CSS` |
-| <a href="YOUR_PORTFOLIO_REPO_URL"><img src="https://img.shields.io/badge/GitHub_Repository-111111?style=for-the-badge&logo=github&logoColor=white"></a> <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Live_Demo-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=111111"></a> |
+<p align="center">
+  <a href="https://github.com/RavinduWathsula/Hostel-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavinduWathsula&repo=Hostel-Management-System&theme=synthwave&hide_border=true&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF&bg_color=111111" alt="Hostel Management System" width="48%" />
+  </a>
+  <a href="https://github.com/RavinduWathsula/onlinestore">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavinduWathsula&repo=onlinestore&theme=synthwave&hide_border=true&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF&bg_color=111111" alt="Online Store" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/RavinduWathsula/portfolio3d">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavinduWathsula&repo=portfolio3d&theme=synthwave&hide_border=true&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF&bg_color=111111" alt="Portfolio 3D" width="48%" />
+  </a>
+  <a href="https://github.com/RavinduWathsula/my-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavinduWathsula&repo=my-portfolio&theme=synthwave&hide_border=true&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF&bg_color=111111" alt="My Portfolio" width="48%" />
+  </a>
+</p>
 
 ---
 
