@@ -82,60 +82,34 @@ Welcome to my digital workspace! 👋 I'm a passionate **Computer Science Underg
 
 ### 🚀 Featured Projects
 
-<div align="center">
-  <table border="0">
-    <tbody>
-      <tr>
-        <td width="50%" align="center">
-          <a href="https://github.com/RavinduWathsula/Hostel-Management-System">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavinduWathsula&repo=Hostel-Management-System&theme=transparent&hide_border=true&title_color=00C6FF&text_color=ffffff&icon_color=9D4EDD&bg_color=111111&cache_seconds=1800" alt="Hostel Management System" width="100%" />
-          </a>
-        </td>
-        <td width="50%" align="center">
-          <a href="https://github.com/RavinduWathsula/onlinestore">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavinduWathsula&repo=onlinestore&theme=transparent&hide_border=true&title_color=00C6FF&text_color=ffffff&icon_color=9D4EDD&bg_color=111111&cache_seconds=1800" alt="Online Store" width="100%" />
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td width="50%" align="center">
-          <a href="https://github.com/RavinduWathsula/portfolio3d">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavinduWathsula&repo=portfolio3d&theme=transparent&hide_border=true&title_color=00C6FF&text_color=ffffff&icon_color=9D4EDD&bg_color=111111&cache_seconds=1800" alt="Portfolio 3D" width="100%" />
-          </a>
-        </td>
-        <td width="50%" align="center">
-          <a href="https://github.com/RavinduWathsula/my-portfolio">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavinduWathsula&repo=my-portfolio&theme=transparent&hide_border=true&title_color=00C6FF&text_color=ffffff&icon_color=9D4EDD&bg_color=111111&cache_seconds=1800" alt="My Portfolio" width="100%" />
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<p align="center">
+  <a href="https://github.com/RavinduWathsula/Hostel-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavinduWathsula&repo=Hostel-Management-System&theme=transparent&hide_border=true&title_color=00C6FF&text_color=ffffff&icon_color=9D4EDD&bg_color=111111&cache_seconds=1800" alt="Hostel Management System" width="48%" />
+  </a>
+  <a href="https://github.com/RavinduWathsula/onlinestore">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavinduWathsula&repo=onlinestore&theme=transparent&hide_border=true&title_color=00C6FF&text_color=ffffff&icon_color=9D4EDD&bg_color=111111&cache_seconds=1800" alt="Online Store" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/RavinduWathsula/portfolio3d">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavinduWathsula&repo=portfolio3d&theme=transparent&hide_border=true&title_color=00C6FF&text_color=ffffff&icon_color=9D4EDD&bg_color=111111&cache_seconds=1800" alt="Portfolio 3D" width="48%" />
+  </a>
+  <a href="https://github.com/RavinduWathsula/my-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavinduWathsula&repo=my-portfolio&theme=transparent&hide_border=true&title_color=00C6FF&text_color=ffffff&icon_color=9D4EDD&bg_color=111111&cache_seconds=1800" alt="My Portfolio" width="48%" />
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <table border="0">
-    <tbody>
-      <tr>
-        <td width="50%" align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=RavinduWathsula&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=00C6FF&text_color=ffffff&icon_color=9D4EDD&bg_color=111111&cache_seconds=1800" alt="GitHub Stats" width="100%">
-        </td>
-        <td width="50%" align="center">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavinduWathsula&theme=transparent&hide_border=true&title_color=00C6FF&text_color=ffffff&icon_color=9D4EDD&background=111111&stroke=00C6FF&ring=9D4EDD&cache_seconds=1800" alt="GitHub Streak" width="100%">
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2" align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduWathsula&theme=transparent&hide_border=true&layout=compact&langs_count=8&title_color=00C6FF&text_color=ffffff&bg_color=111111&cache_seconds=1800" alt="Top Languages" width="60%">
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RavinduWathsula&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=00C6FF&text_color=ffffff&icon_color=9D4EDD&bg_color=111111&cache_seconds=1800" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavinduWathsula&theme=transparent&hide_border=true&title_color=00C6FF&text_color=ffffff&icon_color=9D4EDD&background=111111&stroke=00C6FF&ring=9D4EDD&cache_seconds=1800" alt="GitHub Streak" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduWathsula&theme=transparent&hide_border=true&layout=compact&langs_count=8&title_color=00C6FF&text_color=ffffff&bg_color=111111&cache_seconds=1800" alt="Top Languages" width="60%" />
+</p>
 
 ---
 
