@@ -111,15 +111,7 @@ Welcome to my digital workspace! 👋 I'm a passionate **Computer Science Underg
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RavinduWathsula&theme=transparent&hide_border=true&layout=compact&langs_count=8&title_color=00C6FF&text_color=ffffff&bg_color=111111&cache_seconds=1800" alt="Top Languages" width="60%" />
 </p>
 
----
 
-### 🌌 3D Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RavinduWathsula/RavinduWathsula/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Graph" width="100%">
-</p>
-
----
 
 ### 🐍 Animated Contributions
 
@@ -138,13 +130,13 @@ Welcome to my digital workspace! 👋 I'm a passionate **Computer Science Underg
 ### 📈 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-111111?style=for-the-badge&logoColor=00C6FF&borderColor=00C6FF" alt="AI" />
-  <img src="https://img.shields.io/badge/Machine_Learning-111111?style=for-the-badge&logoColor=00C6FF&borderColor=00C6FF" alt="ML" />
-  <img src="https://img.shields.io/badge/Cloud_Computing-111111?style=for-the-badge&logoColor=00C6FF&borderColor=00C6FF" alt="Cloud" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-00C6FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/Machine_Learning-9D4EDD?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="ML" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-00C6FF?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud" />
   <br>
-  <img src="https://img.shields.io/badge/Advanced_Data_Structures-111111?style=for-the-badge&logoColor=00C6FF&borderColor=00C6FF" alt="DSA" />
-  <img src="https://img.shields.io/badge/System_Design-111111?style=for-the-badge&logoColor=00C6FF&borderColor=00C6FF" alt="System Design" />
-  <img src="https://img.shields.io/badge/Full_Stack_Development-111111?style=for-the-badge&logoColor=00C6FF&borderColor=00C6FF" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Advanced_Data_Structures-9D4EDD?style=for-the-badge&logo=codeforces&logoColor=white" alt="DSA" />
+  <img src="https://img.shields.io/badge/System_Design-00C6FF?style=for-the-badge&logo=docker&logoColor=white" alt="System Design" />
+  <img src="https://img.shields.io/badge/Full_Stack_Development-9D4EDD?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack" />
 </p>
 
 ---
