@@ -23,14 +23,13 @@
 
 ### 👨‍💻 About Me
 
-Welcome to my digital workspace! 👋 I'm a passionate **Computer Science Undergraduate** at *General Sir John Kotelawala Defence University*. I thrive at the intersection of logic and creativity, building elegant software solutions that solve real-world problems.
+Hi there! 👋 I'm a **Computer Science Undergraduate** at *General Sir John Kotelawala Defence University*. I enjoy building clean, scalable software and exploring new technologies.
 
-*   🎓 **Academic Focus:** Specializing in modern software engineering principles and exploring the frontiers of Artificial Intelligence.
-*   💻 **What I Do:** From crafting responsive full-stack web applications to engineering intuitive mobile experiences, I love turning complex ideas into seamless digital realities.
-*   🧠 **My Philosophy:** I believe in writing clean, maintainable code and continuously learning to stay ahead in the rapidly evolving tech landscape.
-*   🚀 **Current Mission:** Seeking opportunities to collaborate on innovative projects, contribute to open-source, and grow as a versatile software developer.
+*   💻 **Focus:** Full-stack Web & Mobile App Development
+*   🧠 **Interests:** Artificial Intelligence & Machine Learning
+*   🚀 **Goal:** Looking for exciting opportunities to collaborate, learn, and grow.
 
-*When I'm not coding, you'll probably find me exploring new tech stacks or debugging the universe, one line of code at a time.* ✨
+*Debugging the universe, one line of code at a time.* ✨
 
 ---
 
