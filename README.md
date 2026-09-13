@@ -111,7 +111,15 @@ Welcome to my digital workspace! 👋 I'm a passionate **Computer Science Underg
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RavinduWathsula&theme=transparent&hide_border=true&layout=compact&langs_count=8&title_color=00C6FF&text_color=ffffff&bg_color=111111&cache_seconds=1800" alt="Top Languages" width="60%" />
 </p>
 
+### 📡 Activity Overview
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RavinduWathsula/RavinduWathsula/output/github-metrics.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RavinduWathsula/RavinduWathsula/output/github-metrics.svg">
+    <img alt="GitHub Metrics Activity Overview" src="https://raw.githubusercontent.com/RavinduWathsula/RavinduWathsula/output/github-metrics.svg">
+  </picture>
+</p>
 
 ### 🐍 Animated Contributions
 
